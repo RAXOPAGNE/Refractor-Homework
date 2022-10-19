@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* her section is the section under the nav bar with the main big image */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* aside section color and text */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* aside section images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Main content of webpage  */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* all webpage images */
 .search-engine-optimization img {
     max-height: 200px;
 }
