@@ -16,3 +16,5 @@ SO THAT our own site is optimized for search engines
 - Most <div> tags were replaced by more accurate semantic elements such as <header>, <aside>, <footer>, <nav>.
 
 ![VScode-screenshot](/Assets/images/VScode-screenshot.png)
+
+Deployed URL link: https://raxopagne.github.io/Refractor-Homework/
